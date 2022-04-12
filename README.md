@@ -1,0 +1,3 @@
+# NetflixCloneLayout
+Um layout criado para simular uma tela do netflix para  aprimorar meus conhecimentos em edição de cores padrao do android, icons, guildelines etc ...
+![netiflixClone](https://user-images.githubusercontent.com/82005738/163058401-d5f4de91-c735-4ad1-93d1-664a933e3c1e.png)
